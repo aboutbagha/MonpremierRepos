@@ -1,1 +1,1 @@
-ASMAA
+select count(*) from Asma ;
