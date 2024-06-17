@@ -1,1 +1,3 @@
-select * from Asma 
+select count(*) AS Nb;
+Nom
+ from Asma  group by Nom;
